@@ -1,1 +1,1 @@
-# AddInteger program in C
+# Add Integer program in C
